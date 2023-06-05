@@ -1,6 +1,8 @@
 package sumativa1;
 import java.util.Scanner;
-
+//Escribir un programa en Java que modele la clase libro. La clase debe incluir los métodos crear
+//dos objetos y para imprimir por pantalla los valores de los atributos.
+//Por Juan Fernandez. Para Universidad Bicentenaria de Aragua
 public class Libro {
 	private String titulo;
 	private String autor;
